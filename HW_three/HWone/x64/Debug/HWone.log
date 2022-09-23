@@ -1,0 +1,25 @@
+﻿  hwONE.c
+C:\CProjectLABACH\HW_three\HWone\hwONE.c(12,3): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+C:\CProjectLABACH\HW_three\HWone\hwONE.c(13,3): warning C4013: pryamoygolnek: нет определения; предполагается "extern" с возвратом типа "int"
+C:\CProjectLABACH\HW_three\HWone\hwONE.c(18,3): warning C4013: treugolnik: нет определения; предполагается "extern" с возвратом типа "int"
+C:\CProjectLABACH\HW_three\HWone\hwONE.c(23,3): warning C4013: krug: нет определения; предполагается "extern" с возвратом типа "int"
+C:\CProjectLABACH\HW_three\HWone\hwONE.c(41,3): warning C4013: pryamoygolnek_menu: нет определения; предполагается "extern" с возвратом типа "int"
+C:\CProjectLABACH\HW_three\HWone\hwONE.c(108,3): warning C4013: treugolnik_menu: нет определения; предполагается "extern" с возвратом типа "int"
+C:\CProjectLABACH\HW_three\HWone\hwONE.c(112,51): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\CProjectLABACH\HW_three\HWone\hwONE.c(172,34): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+C:\CProjectLABACH\HW_three\HWone\hwONE.c(172,38): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+C:\CProjectLABACH\HW_three\HWone\hwONE.c(191,10): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "float *"
+C:\CProjectLABACH\HW_three\HWone\hwONE.c(191,10): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "2" имеет тип "float *"
+C:\CProjectLABACH\HW_three\HWone\hwONE.c(201,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\CProjectLABACH\HW_three\HWone\hwONE.c(205,3): warning C4013: krug_menu: нет определения; предполагается "extern" с возвратом типа "int"
+C:\CProjectLABACH\HW_three\HWone\hwONE.c(209,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\CProjectLABACH\HW_three\HWone\hwONE.c(258,10): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "float *"
+C:\CProjectLABACH\HW_three\HWone\hwONE.c(267,2): warning C4013: Sleep: нет определения; предполагается "extern" с возвратом типа "int"
+C:\CProjectLABACH\HW_three\HWone\hwONE.c(87): warning C4716: pryamoygolnek_menu: должна возвращать значение
+C:\CProjectLABACH\HW_three\HWone\hwONE.c(184): warning C4716: treugolnik_menu: должна возвращать значение
+C:\CProjectLABACH\HW_three\HWone\hwONE.c(97): warning C4716: pryamoygolnek: должна возвращать значение
+C:\CProjectLABACH\HW_three\HWone\hwONE.c(194): warning C4716: treugolnik: должна возвращать значение
+C:\CProjectLABACH\HW_three\HWone\hwONE.c(232): warning C4716: finishe_krug_menu: должна возвращать значение
+C:\CProjectLABACH\HW_three\HWone\hwONE.c(261): warning C4716: krug: должна возвращать значение
+C:\CProjectLABACH\HW_three\HWone\hwONE.c(253): warning C4716: krug_menu: должна возвращать значение
+  HWone.vcxproj -> C:\CProjectLABACH\HW_three\x64\Debug\HWone.exe
